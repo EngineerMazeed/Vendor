@@ -1,0 +1,2 @@
+## This firmware is only compatible with HW A2.
+## Incompatible with other hardware versions
