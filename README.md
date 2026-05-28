@@ -7,7 +7,7 @@ Everything hosted here was dumped directly from physical devices or pulled durin
 
 ```
 Vendor/
-└── Etisalat/
+└── UAE Emirates Telecommunications/
     ├── DIR-850L
     ├── DIR-853ET
     └── (more coming soon)
