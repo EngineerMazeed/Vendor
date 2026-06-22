@@ -16,6 +16,10 @@ Vendor/
     └── du (UAE Emirates Integrated Telecommunications Company P.J.S.C)/
         └── ZLT X28 5G CPE
 ```
+### Currently Available Firmware
+
+- **Etisalat:** DIR-850L, DIR-853ET
+- **du:** ZLT X28 5G CPE
 
 *More will be added as I get my hands on them.*
 
