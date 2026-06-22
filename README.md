@@ -7,10 +7,14 @@ Everything hosted here was dumped directly from physical devices or pulled durin
 
 ```
 Vendor/
-└── UAE Emirates Telecommunications/
-    ├── DIR-850L
-    ├── DIR-853ET
-    └── (more coming soon)
+└── UAE/
+    ├── Etisalat (UAE Emirates Telecommunications)/
+    │   ├── DIR-850L
+    │   ├── DIR-853ET
+    │   └── (more coming soon)
+    │
+    └── du (UAE Emirates Integrated Telecommunications Company P.J.S.C)/
+        └── ZLT X28 5G CPE
 ```
 
 *More will be added as I get my hands on them.*
