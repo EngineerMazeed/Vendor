@@ -8,18 +8,23 @@ Everything hosted here was dumped directly from physical devices or pulled durin
 ```
 Vendor/
 └── UAE/
-    ├── Etisalat (UAE Emirates Telecommunications)/
-    │   ├── DIR-850L
-    │   ├── DIR-853ET
-    │   └── (more coming soon)
-    │
-    └── du (UAE Emirates Integrated Telecommunications Company P.J.S.C)/
-        └── ZLT X28 5G CPE
+│   ├── Etisalat (UAE Emirates Telecommunications)/
+│   │   ├── DIR-850L
+│   │   ├── DIR-853ET
+│   │   └── (more coming soon)
+│   │
+│   └── du (UAE Emirates Integrated Telecommunications Company P.J.S.C)/
+│       └── ZLT X28 5G CPE
+│
+└── Oman/
+    └── Omani Qatari Telecommunications Company SAOG (Ooredoo Oman)/
+        └── ZLT X28 Pro
 ```
 ### Currently Available Firmware
 
 - **Etisalat:** DIR-850L, DIR-853ET
 - **du:** ZLT X28 5G CPE
+- **ooredoo:** ZLT X28 PRO
 
 *More will be added as I get my hands on them.*
 
